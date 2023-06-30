@@ -12,5 +12,6 @@
     <li><a href="view_inventory.php">View Inventory</a></li>
     <li><a href="search.php">Search</a></li>
   </ul>
+  <a href="insert.php">Insert Data</a>
 </body>
 </html>
